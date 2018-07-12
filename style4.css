@@ -1,0 +1,23 @@
+body {
+		background-color: black;
+	}
+	h1 {
+		color: orange;
+		background-color:orange;
+	}
+.colortexto{
+color:white;
+font-size:60px;
+text-align:center;
+font-family: fantasy;
+}
+.tamañoletra{
+font-size: 40px;
+}
+.ññ{
+color:white;
+font-size:15px;
+}
+.menu{
+margin:30px;
+}

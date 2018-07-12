@@ -1,0 +1,28 @@
+body {
+		background-color:black;
+	}
+.colortexto{
+color: white;
+font-size:40px;
+text-align:center;
+font-family:hommer simson;
+}
+ #imageowner {
+ border-radius:50px
+ }
+ img{
+display:block;
+margin:auto;
+}
+.ct{
+color:orange;
+font-size:70px,
+}
+.ll{
+color:white;
+font-size:30px;
+}
+.ññ{
+color:white;
+font-size:15px;
+}
